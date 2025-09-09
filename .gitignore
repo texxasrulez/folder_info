@@ -1,9 +1,3 @@
 .DS_Store
-*.swp
-*.sgh
-*.zip
-translate_locales.php
 config.inc.php
-.idea/
-*.code-workspace
-*~
+folder_info.code-workspace
